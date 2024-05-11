@@ -1,0 +1,12 @@
+imac 2013|90|220
+iphone 11 pro|250|320
+iphone 11 128|150|250
+iphone 12 pro max|350|450
+iphone 12|150|300
+12 pro|350|400
+13 pro max|600|700
+iphone 13|350|420
+iphone 14|550|600
+14 pro max|900|1000
+iphone 14 pro|700|800
+macbook 2021|800|1100
